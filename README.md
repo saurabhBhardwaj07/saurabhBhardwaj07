@@ -2,7 +2,7 @@
 <h3 align="center">A Young Flutter programmer who Loves to Learn 😜</h3>
 
 
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/saurabhbhardwaj07/)][linkedin]
+[![Linkedin: saurabhBhardwaj07](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/saurabhbhardwaj07/)][linkedin]
 <!--
 **saurabhBhardwaj07/saurabhBhardwaj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
