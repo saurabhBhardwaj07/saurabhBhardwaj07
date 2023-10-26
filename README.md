@@ -3,23 +3,13 @@
 
 [![Linkedin: saurabhBhardwaj07](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/saurabhbhardwaj07/)][linkedin]
 
+- 🌱 &ensp;I’m currently learning Kotlin Jetpack ❤️
+- 👯 &ensp; I’m looking to collaborate with other content creators
+- 🗿 &ensp;I started Flutter as a Fresher, and it has been more than 2 years
+- ⚡ &ensp;Fun fact: I love reading & coding
+- 📫 &ensp;How to reach me: [**Email**][email]
 
 
 [linkedin]: https://www.linkedin.com/company/heyflutter/
 [email]: mailto:srvkr0730@gmail.com
 [github]: https://github.com/saurabhBhardwaj07
-
-<!--
-**saurabhBhardwaj07/saurabhBhardwaj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
