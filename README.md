@@ -23,6 +23,6 @@
 <img align="left" alt=“android_atudio” width="26px" src=""/> -->
 
 
-[linkedin]: https://www.linkedin.com/company/heyflutter/
+[linkedin]: https://www.linkedin.com/in/saurabhbhardwaj07
 [email]: mailto:srvkr0730@gmail.com
 [github]: https://github.com/saurabhBhardwaj07
