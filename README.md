@@ -20,6 +20,8 @@
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt=“larval” width="26px" src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"/>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhBhardwaj07&show_icons=true&locale=en&layout=compact" alt="saurabhBhardwaj07" /></p>
 
 <!-- <img align="left" alt=“android_studio” width="26px" src=""/>
