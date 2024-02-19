@@ -21,7 +21,7 @@
 <img align="left" alt=“larval” width="26px" src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"/>
 </p>
 
-<br> <br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhBhardwaj07&show_icons=true&locale=en&layout=compact" alt="saurabhBhardwaj07" /></p>
 
