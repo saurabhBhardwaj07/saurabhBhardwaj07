@@ -21,8 +21,8 @@
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,figma,git,postman)](https://skillicons.dev)
-<p>
-<img src = "https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png"/>
+<p align= "left">
+<img src = "https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" , height = 50 , width = 50/>
 </p>
 
 
